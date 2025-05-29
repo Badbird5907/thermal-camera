@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FS8205A")(type "KiCad")(uri "${KIPRJMOD}/Component/FS8205A.kicad_sym")(options "")(descr ""))
+)
