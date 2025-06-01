@@ -7446,16 +7446,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 57.15) (xy 137.16 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3438eabd-5c86-4388-9db6-27646492b1d8")
-	)
-	(wire
-		(pts
 			(xy 237.49 46.99) (xy 237.49 41.91)
 		)
 		(stroke
@@ -7563,6 +7553,16 @@
 			(type default)
 		)
 		(uuid "6420a49e-3a67-4db9-b2a8-46afa4cfa7d0")
+	)
+	(wire
+		(pts
+			(xy 125.73 52.07) (xy 129.54 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70176274-5416-4c36-808d-fd550e4c8138")
 	)
 	(wire
 		(pts
@@ -7746,16 +7746,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 57.15) (xy 147.32 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9db32317-0986-48d1-931c-d73de6d55080")
-	)
-	(wire
-		(pts
 			(xy 238.76 96.52) (xy 228.6 96.52)
 		)
 		(stroke
@@ -7766,7 +7756,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 57.15) (xy 147.32 57.15)
+			(xy 137.16 52.07) (xy 147.32 52.07)
 		)
 		(stroke
 			(width 0)
@@ -11338,7 +11328,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 123.19 57.15 270)
+		(at 118.11 52.07 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11348,7 +11338,7 @@
 		(fields_autoplaced yes)
 		(uuid "5a3e4d7a-9566-40f2-ace4-b9e3d61b5a7a")
 		(property "Reference" "#PWR035"
-			(at 116.84 57.15 0)
+			(at 111.76 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11357,7 +11347,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 119.38 57.1499 90)
+			(at 114.3 52.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11366,7 +11356,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 123.19 57.15 0)
+			(at 118.11 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11375,7 +11365,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 57.15 0)
+			(at 118.11 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11384,7 +11374,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 123.19 57.15 0)
+			(at 118.11 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11727,7 +11717,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Bridged")
-		(at 140.97 57.15 180)
+		(at 133.35 52.07 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -11735,7 +11725,7 @@
 		(dnp no)
 		(uuid "603e2e86-2747-4ec3-88c8-5e27fabe8bda")
 		(property "Reference" "JP5"
-			(at 140.97 59.69 0)
+			(at 133.35 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11744,7 +11734,7 @@
 			)
 		)
 		(property "Value" "PROG3_JP"
-			(at 141.224 54.61 0)
+			(at 133.604 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11753,7 +11743,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
-			(at 140.97 57.15 0)
+			(at 133.35 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11762,7 +11752,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 57.15 0)
+			(at 133.35 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11771,7 +11761,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 140.97 57.15 0)
+			(at 133.35 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12611,7 +12601,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 127 57.15 270)
+		(at 121.92 52.07 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12619,7 +12609,7 @@
 		(dnp no)
 		(uuid "740ef7ca-5cd8-46c4-8c85-318b68b9814d")
 		(property "Reference" "R11"
-			(at 127 59.69 90)
+			(at 121.92 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12627,7 +12617,7 @@
 			)
 		)
 		(property "Value" "20k"
-			(at 127 61.722 90)
+			(at 121.92 56.642 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12635,7 +12625,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 127 55.372 90)
+			(at 121.92 50.292 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12644,7 +12634,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 127 57.15 0)
+			(at 121.92 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12653,7 +12643,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 127 57.15 0)
+			(at 121.92 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
