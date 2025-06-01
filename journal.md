@@ -20,3 +20,8 @@ Time spent: 8h
 
 I spent a lot of time investigating different IR sensor modules. I finally landed on the MLX90640, which is a cheap thermal sensor with a resolution of 32x24 pixels. I then spent a lot of time designing the schematic.
 I'm also looking into turning this into a module that plugs into an android phone.
+
+# 5/31
+Time spent: 3h
+
+Finalized schematic design and started work on PCB routing. I might attempt to rip out everything battery charging related and reimplement it
