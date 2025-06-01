@@ -16294,7 +16294,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AO3415:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+		(property "Footprint" "Component:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
 			(at 167.64 109.22 0)
 			(effects
 				(font
