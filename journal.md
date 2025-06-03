@@ -31,3 +31,6 @@ Time spent: 3h
 
 Spent a lot of time routing the pcb
 
+# 6/2
+Time spent: 5h
+Routing pcb and fixing issues with schematic.
