@@ -25,3 +25,9 @@ I'm also looking into turning this into a module that plugs into an android phon
 Time spent: 3h
 
 Finalized schematic design and started work on PCB routing. I might attempt to rip out everything battery charging related and reimplement it
+
+# 6/1
+Time spent: 3h
+
+Spent a lot of time routing the pcb
+
