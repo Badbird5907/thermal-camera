@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "FS8205A")(type "KiCad")(uri "${KIPRJMOD}/Component/FS8205A.kicad_sym")(options "")(descr ""))
   (lib (name "AO3415")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Component/AO3415.elibz")(options "")(descr ""))
+  (lib (name "MLX90640ESF-BAB-000-SP")(type "KiCad")(uri "${KIPRJMOD}/Component/MLX90640ESF-BAB-000-SP.kicad_sym")(options "")(descr ""))
 )
