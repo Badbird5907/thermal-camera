@@ -40,5 +40,5 @@ Time spent: 2h
 Finializing pcb, added fallback pins to the power in
 
 # 6/4
-Time spent: 3h
-Finished the PCB, sourced parts. Started on the CAD
+Time spent: 5h
+Finished the PCB, sourced parts. Finished the case CAD.
