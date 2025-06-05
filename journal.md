@@ -42,3 +42,9 @@ Finializing pcb, added fallback pins to the power in
 # 6/4
 Time spent: 5h
 Finished the PCB, sourced parts. Finished the case CAD.
+![ApplicationFrameHost_UEK0gMYSmj](https://github.com/user-attachments/assets/2054bd38-e86a-48ae-a2cf-0893621192db)
+![ApplicationFrameHost_Y9mpmJQMrD](https://github.com/user-attachments/assets/5d0aea0a-1581-4210-8405-b96ca57c3fa6)
+![ApplicationFrameHost_TMCDneAYK6](https://github.com/user-attachments/assets/4597f4c2-b643-4aba-a8d6-1164c3917146)
+![kicad_72Akr1wMqy](https://github.com/user-attachments/assets/3c58292e-0594-4c71-914f-dc51813e364f)
+![kicad_yXDkx9Mt58](https://github.com/user-attachments/assets/9376405d-6afe-4d93-b60b-b3e33d982e1e)
+![kicad_kI7ghjKoyS](https://github.com/user-attachments/assets/3129d40e-ae51-465a-864d-077ebcc0ca00)
