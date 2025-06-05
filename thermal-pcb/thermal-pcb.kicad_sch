@@ -7116,6 +7116,12 @@
 		(uuid "0972e17a-242d-4fc9-a964-3ed8d0107970")
 	)
 	(junction
+		(at 73.66 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0fd4e1ca-0b08-460e-b393-8658b81428bb")
+	)
+	(junction
 		(at 128.27 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7375,6 +7381,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 95.25) (xy 58.42 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f66a709-a999-43fe-868c-731afb8b6d4f")
+	)
+	(wire
+		(pts
 			(xy 226.06 45.72) (xy 226.06 46.99)
 		)
 		(stroke
@@ -7425,6 +7441,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 91.44) (xy 73.66 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29dd161f-e367-4f83-be59-e4a26616bfce")
+	)
+	(wire
+		(pts
 			(xy 144.78 69.85) (xy 147.32 69.85)
 		)
 		(stroke
@@ -7445,7 +7471,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 95.25) (xy 58.42 95.25)
+			(xy 78.74 95.25) (xy 73.66 95.25)
 		)
 		(stroke
 			(width 0)
@@ -14721,10 +14747,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b18ee3ef-5f58-4109-9d5d-c0a370296746")
 		(property "Reference" "F1"
-			(at 82.55 88.9 90)
+			(at 82.55 90.424 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14732,7 +14757,7 @@
 			)
 		)
 		(property "Value" "1.5A"
-			(at 82.55 91.44 90)
+			(at 82.55 92.964 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15188,6 +15213,78 @@
 			(project ""
 				(path "/e071f646-3958-4d62-9e1f-6199960ec462"
 					(reference "TH1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 73.66 87.63 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c7f4eed7-2b3d-4184-bd45-97e858bddb7d")
+		(property "Reference" "JP12"
+			(at 76.2 86.3599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "FUSE_BYPASS"
+			(at 76.2 88.8999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 73.66 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 73.66 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 73.66 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8097b74b-16c6-4262-bc66-f68a80d25e7c")
+		)
+		(pin "1"
+			(uuid "2bd66dd1-1fed-4cf1-b08b-ef1521d78577")
+		)
+		(instances
+			(project "thermal-pcb"
+				(path "/e071f646-3958-4d62-9e1f-6199960ec462"
+					(reference "JP12")
 					(unit 1)
 				)
 			)
@@ -15679,6 +15776,73 @@
 			(project "thermal-pcb"
 				(path "/e071f646-3958-4d62-9e1f-6199960ec462"
 					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
+		(at 73.66 83.82 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d4f98f9d-231d-4e27-b984-2b5646817be9")
+		(property "Reference" "#PWR049"
+			(at 69.85 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VBUS"
+			(at 77.47 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 73.66 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2a11e2fe-99b2-4859-b98b-1ef69157d0c3")
+		)
+		(instances
+			(project "thermal-pcb"
+				(path "/e071f646-3958-4d62-9e1f-6199960ec462"
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
