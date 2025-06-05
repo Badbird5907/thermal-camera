@@ -1,3 +1,5 @@
+**Total Time: 29h**
+
 # 5/26
 Time spent: 2h
 Researched different types of thermal cameras. I finally landed on the [Adafruit MLX90640 IR Thermal Camera Breakout](https://www.adafruit.com/product/4407).
@@ -16,7 +18,7 @@ I found [this](https://www.reddit.com/r/electronics/comments/a70koi/comment/ebzr
 Spent quite a few hours looking up different lipo charger/discharge circuits. I've landed on charging a 18650 or similar battery using a MCP73871 and a MIC5504. Then spent a lot of time designing the schematic
 
 # 5/29 & 5/30
-Time spent: 8h
+Time spent: 5h
 
 I spent a lot of time investigating different IR sensor modules. I finally landed on the MLX90640, which is a cheap thermal sensor with a resolution of 32x24 pixels. I then spent a lot of time designing the schematic.
 I'm also looking into turning this into a module that plugs into an android phone.
