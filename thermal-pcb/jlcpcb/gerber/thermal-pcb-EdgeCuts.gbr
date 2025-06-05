@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
+%TF.CreationDate,2025-06-04T21:14:10-04:00*%
+%TF.ProjectId,thermal-pcb,74686572-6d61-46c2-9d70-63622e6b6963,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-06-04 21:14:10*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X93396000Y-78676000D02*
+X191396000Y-78676000D01*
+X191396000Y-134676000D01*
+X93396000Y-134676000D01*
+X93396000Y-78676000D01*
+M02*

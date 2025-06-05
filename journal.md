@@ -38,3 +38,7 @@ Routing pcb and fixing issues with schematic.
 # 6/3
 Time spent: 2h
 Finializing pcb, added fallback pins to the power in
+
+# 6/4
+Time spent: 3h
+Finished the PCB, sourced parts. Started on the CAD
