@@ -1,5 +1,8 @@
 # Thermal Camera
-This is my design of a cheap and affordable thermal camera (< $50)!. It utilizes the MLX90640 as the image sensor, and the esp32 to process and display the images on a TFT LCD screen.
+This is my design of a cheap and affordable thermal camera (< $60, excl shipping)!. It utilizes the MLX90640 as the image sensor, and the esp32 to process and display the images on a TFT LCD screen.
+
+I made this project because off the shelf thermal cameras are exuberantly expensive, and I need one to figure out if my PCBs are shorting.
+
 
 # Screenshots
 ![image](https://github.com/user-attachments/assets/bfb91cfb-b7ea-49b0-bfd7-bb6e16e3c23b)
