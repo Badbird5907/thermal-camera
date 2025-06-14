@@ -53,4 +53,4 @@ Finished the PCB, sourced parts. Finished the case CAD.
 
 # 6/11 - 6/13
 Time spent: 2h
-Reworked bom to use some parts from aliexpress. Also reworked some traces on the PCB and moved the battery connector to the top left. I managed to bring the bom down a few dollars to $97 USD.
+Reworked bom to use some parts from aliexpress. Also reworked some traces on the PCB and moved the battery connector to the top left. I've also added and remove parts from the digikey bom that I forgot.
