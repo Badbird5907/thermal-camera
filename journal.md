@@ -50,3 +50,6 @@ Finished the PCB, sourced parts. Finished the case CAD.
 ![kicad_72Akr1wMqy](https://github.com/user-attachments/assets/3c58292e-0594-4c71-914f-dc51813e364f)
 ![kicad_yXDkx9Mt58](https://github.com/user-attachments/assets/9376405d-6afe-4d93-b60b-b3e33d982e1e)
 ![kicad_kI7ghjKoyS](https://github.com/user-attachments/assets/3129d40e-ae51-465a-864d-077ebcc0ca00)
+
+# 6/11 - 6/13
+Reworked bom to use some parts from aliexpress. Also reworked some traces on the PCB and moved the battery connector to the top left.
