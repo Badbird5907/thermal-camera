@@ -1,4 +1,4 @@
-24740852054390245
+24744351263117591
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6461,6 +6461,13 @@ capacitor tantalum
 2
 2
 Component
+MFS201N-16-Z_NDC
+
+MFS201N-16-Z 
+0
+8
+8
+Component
 SOP65P640X120-8N
 
 
@@ -6474,6 +6481,13 @@ SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
 0
 3
 3
+Component
+SOT95P280X145-6N
+
+
+0
+6
+6
 Component
 TO292P945H1165-4
 
