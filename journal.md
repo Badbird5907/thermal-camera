@@ -1,4 +1,4 @@
-**Total Time: 29h**
+**Total Time: 34h**
 
 # 5/26
 Time spent: 2h
@@ -54,3 +54,15 @@ Finished the PCB, sourced parts. Finished the case CAD.
 # 6/11 - 6/13
 Time spent: 2h
 Reworked bom to use some parts from aliexpress. Also reworked some traces on the PCB and moved the battery connector to the top left. I've also added and remove parts from the digikey bom that I forgot.
+
+# 7/8
+
+Time spent: 5h
+
+Parts arrived, I reflowed all the parts on the board, and spent forever debugging both software and hardware. Ended up having to bodge wire some pins, but it works!
+I also had to go into the Arduino TFT library to get it to work with my ESP32.
+
+![20250709_015518](https://github.com/user-attachments/assets/3794a1af-1700-4b59-b9cb-f46aea11919b)
+![20250709_021239](https://github.com/user-attachments/assets/625bd81a-f133-455e-ac67-6502b244b54d)
+![20250709_021320](https://github.com/user-attachments/assets/b472841b-db4c-4fbe-a878-2176fae16ff5)
+
