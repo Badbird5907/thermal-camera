@@ -1,8 +1,9 @@
 # Thermal Camera
+[Video Demo](https://www.youtube.com/shorts/hk5CXilCE_w)
+
 This is my design of a cheap and affordable thermal camera (< $60, excl shipping)!. It utilizes the MLX90640 as the image sensor, and the esp32 to process and display the images on a TFT LCD screen.
 
 I made this project because off the shelf thermal cameras are exuberantly expensive, and I need one to figure out if my PCBs are shorting.
-
 
 The hardest part of this project so far was designing the battery charging circuit, as I needed to use multiple ICs to charge the battery, keep the voltage stable, and to keep the battery from overcharging.
 
@@ -13,6 +14,11 @@ The hardest part of this project so far was designing the battery charging circu
 ![ApplicationFrameHost_TMCDneAYK6](https://github.com/user-attachments/assets/63a3391f-17fa-4976-af4c-8b1de6973849)
 ![ApplicationFrameHost_Y9mpmJQMrD](https://github.com/user-attachments/assets/495972b4-3cc5-4822-8513-aee2b1932eef)
 ![ApplicationFrameHost_UEK0gMYSmj](https://github.com/user-attachments/assets/efeb5221-4169-493a-9d29-9d4537862ef4)
+
+# Photos
+![img](https://github.com/user-attachments/assets/97fbe845-a84f-4a20-818c-e701c56874cf)
+![20250804_204128](https://github.com/user-attachments/assets/0fc42e87-6d7c-4520-a9db-c2d1d7bd568e)
+![20250709_021320](https://github.com/user-attachments/assets/9fedbb70-89d1-4907-9ab7-d21cda1b402e)
 
 # Firmware
 You can find the firmware in the `thermal_camera` folder.
