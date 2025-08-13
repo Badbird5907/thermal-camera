@@ -1,6 +1,8 @@
 # Thermal Camera
 [Video Demo](https://www.youtube.com/shorts/hk5CXilCE_w)
 
+**This project was posted to [Hackaday](https://hackaday.com/2025/08/10/cheap-thermal-camera-fits-the-bill/)!**
+
 This is my design of a cheap and affordable thermal camera (< $60, excl shipping)!. It utilizes the MLX90640 as the image sensor, and the esp32 to process and display the images on a TFT LCD screen.
 
 I made this project because off the shelf thermal cameras are exuberantly expensive, and I need one to figure out if my PCBs are shorting.
