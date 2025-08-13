@@ -13,6 +13,7 @@ The hardest part of this project so far was designing the battery charging circu
 ![image](https://github.com/user-attachments/assets/81084bf6-0700-4935-8a9e-a61ce22c64c9)
 ![ApplicationFrameHost_TMCDneAYK6](https://github.com/user-attachments/assets/63a3391f-17fa-4976-af4c-8b1de6973849)
 ![image](https://github.com/user-attachments/assets/0b117d15-10fc-46a0-8386-2638a53bcbac)
+-> The case (and PCB) isn't very well designed, If I redesigned this project, i'd make the pcb smaller and integrate the LCD...
 
 # Photos
 ![img](https://github.com/user-attachments/assets/97fbe845-a84f-4a20-818c-e701c56874cf)
